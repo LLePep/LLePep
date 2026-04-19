@@ -2,7 +2,7 @@
 
 ## Hi, I'm student at 42 scholl
 
-- 💬 Reach me if you have any question about a prog or anything you can use my discord `lepep9583`
+- 💬 Feel free to reach out on Discord if you have any questions about my code or just want to chat: `lepep9583`
 
 ### Knowledge
 
