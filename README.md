@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-I'm a software enthusiast based in [Ta Ville], passionate about creating simple solutions to complex problems.
+I'm student at 42 scholl
 
-- 🔭 Currently working on [Projet]
-- 🌱 Learning everything about [Techno]
-- ⚡ Fun fact: I drink more coffee than I write lines of code.
+if you have any question about a prog or anything you can use my discord
+
 
 ### 🛠 Tech Stack
-**Languages:** HTML, CSS, JavaScript, Python
+**Languages:** C/C++ (98), Python, HTML/CSS
+
 **Tools:** Git, Docker, VS Code
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TON-P
