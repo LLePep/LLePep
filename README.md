@@ -8,6 +8,7 @@ I'm a software enthusiast based in [Ta Ville], passionate about creating simple 
 
 ### 🛠 Tech Stack
 **Languages:** HTML, CSS, JavaScript, Python
+
 **Tools:** Git, Docker, VS Code
 
 ---
